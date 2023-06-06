@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: paquete1
+Version: 1.0
+Summary: Segunda preEntrega de Coderhouse del curso de Python
+Author: Maria Belen Legresti
+Author-email: mariabelenlegresti@email.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
